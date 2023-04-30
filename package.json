@@ -34,5 +34,9 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
     "typescript": "~4.9.4"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Code-for-Serbia/client_estimate.git",
+  "author": "itmilos <milosrujevic@gmail.com>",
+  "license": "MIT"
 }
